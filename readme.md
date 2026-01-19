@@ -17,7 +17,7 @@ The model supports interactive joint manipulation and visualization, as shown in
 
 ### Example Output
 
-Below is an example visualization of the urdf:
+Below is an example visualization of the urdf using https://gkjohnson.github.io/urdf-loaders/javascript/example/bundle/:
 
 ![URDF Example](example.png)
 
